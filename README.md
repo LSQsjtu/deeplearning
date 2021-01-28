@@ -1,3 +1,3 @@
 # deeplearning
 
-## try to do 
+## try to do it
